@@ -7,7 +7,7 @@ namespace HomeWork
         static void Main(string[] args)
         {
  //Exercise 2
-            Console.WriteLine("Exercise_2");
+            Console.WriteLine("Exercise_2$");
             Console.WriteLine("Enter the sum of purchase: ");
             double purchase1;
             double purchase=Convert.ToDouble(Console.ReadLine());
